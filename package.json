@@ -9,7 +9,6 @@
     "type": "git",
     "url": "https://github.com/marshallswain/vue-draggable.git"
   },
-  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve ./example/main.js --open --mode local",
     "build:docs": "vue-cli-service build ./example/main.js --dest docs --mode development",
