@@ -13,3 +13,5 @@ test/tmp
 
 .env.local
 dist/
+docs/
+types/
